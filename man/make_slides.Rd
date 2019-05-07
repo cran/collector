@@ -10,14 +10,14 @@ make_slides(sme, questions, output_dir,
 \arguments{
 \item{sme}{Name of the SME being interviewed.}
 
-\item{questions}{tidyrisk_question_set object.}
+\item{questions}{A \code{\link{tidyrisk_question_set}} object.}
 
 \item{output_dir}{Directory location for knitted slides.}
 
 \item{assessment_title}{Title of the assessment being performed.}
 }
 \value{
-Output of render.
+Invisibly returns the full path to the slide file.
 }
 \description{
 Creates an in-browser slideshow as a visual aide when conducting an
