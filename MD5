@@ -1,7 +1,7 @@
-099fdc8d3cac49bf0dd7944509722af0 *DESCRIPTION
+4bb19b3a3fec7b48098d8544b398d389 *DESCRIPTION
 69f7ba78b22d87c8f6f9a53215f20070 *LICENSE
-96d659d88ccffc8235578e9aa4c1ceb2 *NAMESPACE
-247d37765be9bfafd7208581c4939ff2 *NEWS.md
+40dfa06e06caa3a560deb624854b94df *NAMESPACE
+f3714ed0f649cb4a057070098d4873ec *NEWS.md
 4326008e7db03ec29d87231203f83833 *R/clean_answers.R
 3ecbb052f2be6db1bba9f1850e12e368 *R/collector.R
 31a7678f69873e3b5c6b77810d6412a7 *R/data.R
@@ -9,7 +9,7 @@
 0c5bdb29f3ac3bf1828e4911f977c722 *R/generate_weights.R
 bbf20b96a2b92f2049552a706c479bf1 *R/make_handouts.R
 b3fecc76ecb0d158ecf2f7a2b2344060 *R/make_scorecard.R
-161b3ef6bc943a2220bf57ae25a4475c *R/make_slides.R
+390a3ce8543e5c3a6f6d11049d657566 *R/make_slides.R
 478272b68d3274e6b07a7adb953d51b8 *R/prepare_data.R
 8dc0be6977a62b73c716776547632e69 *R/tidyrisk_question_set.R
 eb0916885cd89a42a479a24f0ec1da57 *R/tidyrisk_response_set.R
@@ -88,14 +88,14 @@ c9547c74fd9b3563b2695738ec662ccd *man/normal_to_lognormal.Rd
 987be1ddcbf1d2bf28fa5a7229386c6c *man/tidyrisk_response_set.Rd
 0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
 211cae9bdb8a1fc0a9ba8eb154e3ee95 *tests/testthat.R
-93345664f8e9dfd7e9f4c4acfef756e6 *tests/testthat/Rplots.pdf
-6378b59ba5d00948fcf799571ce8c79c *tests/testthat/natalie_wade_scorecard.pdf
+ce411a47a399015f6699f7e932563354 *tests/testthat/Rplots.pdf
+1277ab5e89fa9fecc5969fd6008d5ae1 *tests/testthat/natalie_wade_scorecard.pdf
 cadb15862630b814f9c76cb67ef5939b *tests/testthat/test-clean_answers.R
 ce82ab9b135fe4f1b7913fe30a9eb17b *tests/testthat/test-fit_distributions.R
 d684318fe6bf32d501eaa68ad724973e *tests/testthat/test-generate_weights.R
 bc0e0b1d359d3a247531ee819143d726 *tests/testthat/test-make_handouts.R
 fcde22c269117e5223bc5ca34def7a0a *tests/testthat/test-make_scorecard.R
-d2e7bd03892001fa8f31afdc227ec864 *tests/testthat/test-make_slides.R
+5a8856cd2a4bdd43e4e0d43cca2d45b6 *tests/testthat/test-make_slides.R
 eec3a2a49f2e624160e9dbd9556d91f1 *tests/testthat/test-prepare_data.R
 7884fa21a152000c9c71e8f7a1cbabee *tests/testthat/test-utils.R
 461c52841da4521d06d5fb196818b3e1 *vignettes/file_structures.Rmd
