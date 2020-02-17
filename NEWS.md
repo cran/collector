@@ -1,6 +1,12 @@
+# collector 0.1.3
+
+* Remove timer from interview slides.
+* Correct `check_readability()` column errors.
+* Update for tidyr 1.0 changes.
+
 # collector 0.1.2
 
-* Fix namepsace requirement for xaringan.
+* Fix namespace requirement for xaringan.
 * Do not run pandoc tests when pandoc is not available.
 
 # collector 0.1.1
